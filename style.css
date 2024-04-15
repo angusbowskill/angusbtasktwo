@@ -1,7 +1,7 @@
 /* this is a css style sheet, the syntax for a comment in CSS is different because it's a separate language to HTML */
 /* below I am calling all the different HTML elements that I have used in the page and describing how it should be rendered on screen within the {curly brackets}. */
 body {
-    background: image-set(<img src="assets/drive-download-20240415T061947Z-001/swampset.JPEG") 
+    background: rgb(0, 0, 0);
     color: azure;
 }
 
