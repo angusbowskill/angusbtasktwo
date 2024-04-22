@@ -27,13 +27,27 @@ img {
 #img5 {
     width: 350px;
     height: 500px;
-    left: 1000px;
+    left: 1700px;
     top: 700px;
 }
 
 #img6 {
+    width: 875px;
+    height: 310px;
+    left: 500px;
+    top: 850px;
+}
+
+#img7 {
     width: 350px;
     height: 500px;
+    left: 2100px;
+    top: 60px;
+}
+
+#img8 {
+    width: 1350px;
+    height: 250px;
     left: 500px;
-    top: 700px;
+    top: 300px;
 }
