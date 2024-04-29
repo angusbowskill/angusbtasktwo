@@ -1,10 +1,9 @@
 .art-container {
     width: 2535px;
     height: 1340px;
-    background-image: url("../assets/images/200w.gif");
+    background-image: url("../assets/images/NEWBODY.jpg");
     background-position: center;
-    background-size: auto;
-    background-color: black;
+    background-size: cover;
     position: relative;
 }
 
@@ -12,37 +11,38 @@
     position: absolute;
 }
 
+
 img {
     width: 100%;
     height: 100%;
 }
 
 #img4 {
-    width: 350px;
+    width: 550px;
     height: 500px;
-    left: 70px;
-    top: 100px;
+    left: -50px;
+    top: 230px;
 }
 
 #img5 {
-    width: 350px;
-    height: 500px;
-    left: 1700px;
-    top: 700px;
+    width: 600px;
+    height: 900px;
+    left: 1550px;
+    top: 430px;
 }
 
 #img6 {
-    width: 875px;
-    height: 310px;
+    width: 675px;
+    height: 210px;
     left: 500px;
-    top: 850px;
+    top: 845px;
 }
 
 #img7 {
     width: 350px;
     height: 500px;
     left: 2100px;
-    top: 60px;
+    top: 275px;
 }
 
 #img8 {
