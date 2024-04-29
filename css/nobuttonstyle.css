@@ -1,0 +1,19 @@
+.art-container {
+    width: 2535px;
+    height: 1340px;
+    background-image: url("../assets/images/sadfacebackground.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.img-container {
+    position: absolute;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
