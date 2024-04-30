@@ -1,9 +1,9 @@
 .art-container {
     width: 2535px;
     height: 1340px;
-    background-image: url("../assets/images/transcendbackground222.jpg");
-    background-position: center;
-    background-size: cover;
+    background-image: url("../assets/images/transcendbackground222.jpg"); 
+    background-position: center; 
+    background-size: cover; margin: -8px; overflow: hidden;
     position: relative;
 }
 
@@ -28,4 +28,18 @@ img {
     height: 400px;
     left: 435px;
     top: 850px;
+}
+
+#img10 {
+    width: 407px;
+    height: 475px;
+    left: -35px;
+    top: 860px;
+}
+
+#img11 {
+    width: 407px;
+    height: 475px;
+    left: 895px;
+    top: 860px;
 }
