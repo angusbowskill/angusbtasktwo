@@ -1,9 +1,11 @@
 .art-container {
-    width: 2535px;
-    height: 1340px;
+    max-width: 2535px;
+    max-height: 1340px;
+    width: 100%;
+    height: 100%;
     background-image: url("../assets/images/NEWBODY.jpg");
     background-position: center;
-    background-size: cover; margin: -8px; overflow: hidden;
+    background-size: cover; 
     position: relative;
 }
 
@@ -57,4 +59,11 @@ img {
     height: 207px;
     left: 2010px;
     top: 180px;
+}
+
+#img13 {
+    width: 120px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
 }

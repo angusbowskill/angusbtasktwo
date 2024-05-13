@@ -1,14 +1,43 @@
 .art-container {
-    width: 2535px;
-    height: 1340px;
+    max-width: 2535px;
+    max-height: 1340px;
+    width: 100%;
+    height: 100%;
     background-image: url("../assets/images/transcendbackground222.jpg"); 
     background-position: center; 
-    background-size: cover; margin: -8px; overflow: hidden;
+    background-size: cover; 
     position: relative;
 }
 
 .img-container {
     position: absolute;
+}
+
+.index-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.option-stack {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.angel-stack {
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.no-stack {
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 img {
@@ -19,27 +48,31 @@ img {
 #img1 {
     width: 400px;
     height: 400px;
-    left: 1750px;
-    top: 850px;
+    /* left: 1750px;
+    top: 850px; */
 }
 
 #img2 {
     width: 400px;
     height: 400px;
-    left: 435px;
-    top: 850px;
+    /* left: 435px;
+    top: 850px; */
 }
 
 #img10 {
     width: 407px;
     height: 475px;
-    left: -35px;
-    top: 860px;
+    /* left: -35px;
+    top: 860px; */
 }
 
 #img11 {
     width: 407px;
     height: 475px;
-    left: 895px;
-    top: 860px;
+    /* left: 895px;
+    top: 860px; */
+}
+
+a {
+    display: block;
 }
