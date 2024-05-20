@@ -3,7 +3,7 @@
     max-height: 1340px;
     width: 100%;
     height: 100%;
-    background-image: url("../assets/images/hell.jpg");
+    background-image: url("../assets/images/lungs.jpg");
     background-position: center;
     background-size: cover; 
     position: relative;
@@ -18,18 +18,19 @@ img {
     height: 100%;
 }
 
-#img12 {
-    width: 840px;
-    height: 840px;
-    left: 850px;
-    top: 175px;
-}
-
-#img16 {
+#img15 {
     width: 120px;
     height: 60px;
     left: 0px;
     top: 0px;
 }
+
+#img18 {
+    width: 120px;
+    height: 60px;
+    left: 120px;
+    top: 0px;
+}
+
 
 
